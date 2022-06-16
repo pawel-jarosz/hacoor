@@ -1,4 +1,4 @@
-name: master
+name: Status of master
 
 on:
   push:
