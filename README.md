@@ -1,3 +1,5 @@
+[![Status of master](https://github.com/pawel-jarosz/hacoor/actions/workflows/master.yml/badge.svg?branch=master&event=push)](https://github.com/pawel-jarosz/hacoor/actions/workflows/master.yml)
+
 # HACoor
 ## About project
 Platform for home automation software inspired by **AUTOSAR Adaptive Platform**.
